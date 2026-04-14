@@ -8,6 +8,9 @@ Change the file location as needed.
 the tuple contains the names of the video clips... change it accordingly.
 
 
+Please use it after seeing the code, idk what it will do if not properly handled 
+
+
 
 ### Random initalization
 ``` 
