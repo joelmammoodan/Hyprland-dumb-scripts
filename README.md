@@ -10,11 +10,15 @@ the tuple contains the names of the video clips... change it accordingly.
 
 
 ### Random initalization
-``` sudo bash ./update_sddm.sh  ```
-``` \n Random Picking... ```
-``` Docking successful, Slick. All 3 coordinates set to: hayes ```
+``` 
+sudo bash ./update_sddm.sh  
+Random Picking... 
+Docking successful, Slick. All 3 coordinates set to: hayes
+```
 
 ### Specific initialization
 
-``` sudo bash ./update_sddm.sh peter```
-``` Docking successful, Slick. All 3 coordinates set to: peter ```
+```
+sudo bash ./update_sddm.sh peter
+Docking successful, Slick. All 3 coordinates set to: peter
+```
