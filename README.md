@@ -11,7 +11,7 @@ the tuple contains the names of the video clips... change it accordingly.
 
 ### Random initalization
 ``` sudo bash ./update_sddm.sh  ```
-``` Random Picking... ```
+``` \n Random Picking... ```
 ``` Docking successful, Slick. All 3 coordinates set to: hayes ```
 
 ### Specific initialization
