@@ -7,4 +7,4 @@ It is done using sed command and it is connected with the silent sddm rei.conf.
 Change the file location as needed.
 the tuple contains the names of the video clips... change it accordingly
 
-''' bash sudo ./update_sddm.sh'''
+``` bash sudo ./update_sddm.sh ```
